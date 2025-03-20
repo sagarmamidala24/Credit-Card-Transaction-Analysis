@@ -1,6 +1,8 @@
 # Credit-Card-Transaction-Analysis
 
-This code performs comprehensive data analysis, feature engineering, visualization, and insights generation on a dataset of credit card transactions.
+The Credit Card Transactions Analysis project explores transaction trends, detects anomalies, and extracts insights using Pandas. 
+It includes data cleaning, manipulation, and fraud detection. Key analyses include transaction categorization, aggregation, customer behavior insights, and merging customer data.
+The data analysis feature engineering, visualization, and insights generation on a dataset of credit card transactions.
 Here's a summary of the key steps:
 
 ## 1️⃣ Data Exploration and Cleaning
